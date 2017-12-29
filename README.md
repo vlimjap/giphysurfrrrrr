@@ -40,5 +40,5 @@ Used for infinite scroll functionality
 
 `/config` - Config file
 
-`public` - Public files served by the server
+`/public` - Public files served by the server
 
