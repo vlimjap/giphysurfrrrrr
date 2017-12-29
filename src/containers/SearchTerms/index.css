@@ -1,0 +1,15 @@
+ul.searchTerms {
+
+}
+
+ul.searchTerms li {
+  background-color: #2e3135;
+  border-radius: 20px;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+ul.searchTerms li:hover {
+  background-color: #383a3d;
+  cursor: pointer;
+}

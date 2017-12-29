@@ -1,0 +1,26 @@
+form.searchForm {
+  display: flex;
+  align-items: center;
+  margin: 0 auto; 
+  width: 80%;
+}
+
+form.searchForm > div {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+input[type=text] {
+  color: #A6A6A6;
+  display: inline-block;
+  font-size: 16px;
+  height: 52px;
+  padding-left: 20px;
+  width: 75%;
+}
+
+input[type=image] {
+  display: inline-block;
+  height: 58px;
+}
