@@ -42,3 +42,6 @@ Used for infinite scroll functionality
 
 `/public` - Public files served by the server
 
+## TODO: ##
+Since I updated the directory structure a bit to my preferences the built in testing framework in react-scripts no longer work. I would have to convert react-scripts to use webpack or some type of compiler as well as implement a testing framework.
+
