@@ -5,6 +5,7 @@
 
 GO: http://localhost:3000
 
+LIVE DEMO: https://vlimjap.github.io/giphysurfrrrrr/build/index.html
 
 ## Notes: ##
 Welcome to GiphySurfRrrrr.
